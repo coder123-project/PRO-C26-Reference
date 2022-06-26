@@ -88,6 +88,7 @@ function keyPressed() {
   }
 }
 
+
 function showCannonBalls(ball, index) {
   if (ball) {
     ball.display();
